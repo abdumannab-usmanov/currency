@@ -1,0 +1,51 @@
+body{
+    background-color:gray;
+}
+
+.headear{text-align: center;}
+
+.current{
+    width: 100%;
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+}
+
+.current__value{
+    font-size: 15px;
+    padding: 5px 3px;
+    border-radius: 3px;
+    margin-right: 100px;
+    appearance: none;
+}
+
+.current__money{
+    font-size: 15px;
+    padding: 5px 3px;
+    border-radius: 3px;
+    margin-right: 150px;
+}
+
+.current__press{
+    font-size: 15px;
+    padding: 5px 3px;
+    border-radius: 5px;
+    background-color:aqua ;
+}
+.current__worth{
+    display: block;
+    margin-top: 40px;
+}
+
+.current__result{ 
+    font-size: 40px;
+    text-align: center;
+    color:blue;
+}
+
+.current__account{
+    font-size: 40px;
+    text-align: center;
+    color:blue;
+}
